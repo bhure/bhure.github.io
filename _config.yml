@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Team Red                          # the main title
 
-tagline:This red team blog series will contain blogs related to initial access, persistance , lateral movement, antivirus bypass and much more.    # it will display as the sub-title
+tagline:This red team blog series will contain blogs related to initial access, persistance, lateral movement, antivirus bypass and much more.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Red Teaming, cybersecurity, pentesting , lateralmovement.
