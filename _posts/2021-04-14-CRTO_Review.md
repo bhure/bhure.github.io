@@ -14,7 +14,7 @@ Great job rasta.
 
 
 ## Background
-Coming to my backgroung I did OSCP recently and have been invlolved in red teaming assignments so I thought why not give one of the most hyped red team certifications a shot.
+Coming to my background I did OSCP recently and have been invlolved in red teaming assignments so I thought why not give one of the most hyped red team certifications a shot.
 
 I admit the hype is real.
 
@@ -23,7 +23,7 @@ I was confused b/w  CRTO and CRTP , I decided to go with CRTO as I have heard ab
 
 ## Labs
 So in the beginning I was kinda confused what the lab was as I thought lab isn't there , unlike PWK we keep doing courseware and keep growing and popping machines.
-There is no dedicated labs you do the labs with the courseware itself this is the best thing I have seen in the implementation as you really dont't even feel the need for a lab or dedicated machines as you have plenty of machines with courseware to learn.Machine reverts are easy and works fine.
+There is no dedicated labs you do the labs with the courseware itself this is the best thing I have seen in the implementation as you really dont't even feel the need for a lab or dedicated machines as you have 
 
 ## Timeline
 So I took the course for 2 months but ended up getting done with even my exam in a month itself.
@@ -42,5 +42,16 @@ The learning experience was very intense ,so I give a thumbs up to rasta for awe
 
 ## HIT or MISS
 
-Definitely a HIT exam , is you want to learn red teaming I suggest to go with 2 months of lab time and keep  the things slow paced and there is too much to grasp if you are new to red teaming.
+Definitely a HIT exam , if you want to learn red teaming I suggest to go with 2 months of lab time and keep  the things slow paced and there is too much to grasp if you are new to red teaming.
 
+## Prerequisites
+
+I recommend to have a sound knowledge of active directory and C2 frameworks , rest all is duly covered in the course.
+
+## Helpful links
+ https://www.ired.team/
+ https://blog.f-secure.com/hunting-for-amsi-bypasses/
+ https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1
+ Rest most of the resources are duly covered in the course.
+
+ 
