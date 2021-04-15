@@ -49,9 +49,12 @@ Definitely a HIT exam , if you want to learn red teaming I suggest to go with 2 
 I recommend to have a sound knowledge of active directory and C2 frameworks , rest all is duly covered in the course.
 
 ## Helpful links
- https://www.ired.team/
- https://blog.f-secure.com/hunting-for-amsi-bypasses/
- https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1
- Rest most of the resources are duly covered in the course.
+<https://www.ired.team/>
 
- 
+<https://blog.f-secure.com/hunting-for-amsi-bypasses/>
+
+<https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1>
+
+Rest most of the resources are duly covered in the course.
+
+
