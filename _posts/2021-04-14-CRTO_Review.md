@@ -10,7 +10,7 @@ tags: [pentesting, hacking, expdev ,red teaming]
 
 Finally I got time to work on this blog series.
 Let us start with a review of my latest certification CRTO.
-Great job rasta.
+Thanks to rastamouse for the best learning experience.
 
 
 ## Background
